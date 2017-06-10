@@ -10,3 +10,6 @@ C:\Users\Timur\Dropbox\programs\travis tests\test1\ConsoleApplication1\ConsoleAp
 C:\Users\Timur\Dropbox\programs\travis tests\Travis-Tests\test1\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
 C:\Users\Timur\Dropbox\programs\travis tests\Travis-Tests\test1\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
 C:\Users\Timur\Dropbox\programs\travis tests\Travis-Tests\test1\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Timur\Dropbox\programs\travis tests\Travis-Tests\test1\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Timur\Dropbox\programs\travis tests\Travis-Tests\test1\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Timur\Dropbox\programs\travis tests\Travis-Tests\test1\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
